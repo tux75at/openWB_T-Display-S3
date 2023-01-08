@@ -1,0 +1,12 @@
+Whats working:
+- Connection with WiFi network
+- receiving MQTT values (based on previous project openWB_OLEDDisplay)
+- Display Values for EVU, PV, LP1 charging and SOC, Plugstatus is not shown at the moment
+- Display is with a basic layout, only one default font size is used
+- Font size can be changed
+
+What needs to be done:
+- add Plugstatus on Display
+- Animated GIFs for Layout need to be created
+- Layout needs to be done
+- Animated GIF with openWB logo at start?
