@@ -5,6 +5,6 @@ Displays current EVU, PV and combined power of all charging ports plus SoC of ch
 This code is based on the openWB_OLEDDisplay https://github.com/MartinRinas/openWB_OLEDDisplay and https://github.com/Xinyuan-LilyGO/T-Display-S3 (factory).
 
 # Configuration
-You need to enter SSID, PW and IP of openWB in [a relative link](include/config.h).
+You need to enter SSID, PW and IP of openWB in [include/config.h](include/config.h).
 
 This is not finished yet, basic functions are implemented, the look of the GUI will be changed.
